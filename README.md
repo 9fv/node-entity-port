@@ -2,12 +2,12 @@
 [npm-badge-url]: https://www.npmjs.com/package/entity-port
 [npm-downloads-badge]: https://img.shields.io/npm/dt/entity-port.svg
 [npm-downloads-url]: https://npmjs.org/package/entity-port
-[travis-badge]: https://img.shields.io/travis/9fv/node-entity-port/v0.1.0-alpha1.svg?label=TravisCI
+[travis-badge]: https://img.shields.io/travis/9fv/node-entity-port/master.svg?label=TravisCI
 [travis-badge-url]: https://travis-ci.org/9fv/node-entity-port
-[circle-badge]: https://circleci.com/gh/9fv/node-entity-port/tree/v0.1.0-alpha1.svg?style=svg&circle-token=
-[circle-badge-url]: https://circleci.com/gh/9fv/node-entity-port/tree/v0.1.0-alpha1
-[coveralls-badge]: https://coveralls.io/repos/github/9fv/node-entity-port/badge.svg?branch=v0.1.0-alpha1
-[coveralls-badge-url]: https://coveralls.io/github/9fv/node-entity-port?branch=v0.1.0-alpha1
+[circle-badge]: https://circleci.com/gh/9fv/node-entity-port/tree/master.svg?style=svg&circle-token=
+[circle-badge-url]: https://circleci.com/gh/9fv/node-entity-port/tree/master
+[coveralls-badge]: https://coveralls.io/repos/github/9fv/node-entity-port/badge.svg?branch=master
+[coveralls-badge-url]: https://coveralls.io/github/9fv/node-entity-port?branch=master
 [codeclimate-badge]: https://img.shields.io/codeclimate/github/9fv/node-entity-port.svg
 [codeclimate-badge-url]: https://codeclimate.com/github/9fv/node-entity-port
 [ember-observer-badge]: http://emberobserver.com/badges/node-entity-port.svg
